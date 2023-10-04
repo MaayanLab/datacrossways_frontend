@@ -27,8 +27,8 @@ export const PublicPage = () => {
       <DataCollections />
       {/*<NewsSection /> */}
       <ContactInformation />
-      <ContactUs />
-      <StayConnected />
+      {/*<ContactUs />
+      <StayConnected />*/}
       <FooterSection />
     </>
   );
